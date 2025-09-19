@@ -16,11 +16,18 @@
 ---
 
 ## 🎓 Education
-| Course        | Institution         | Board                   | Year | Marks/CGPA |
-|---------------|---------------------|-------------------------|------|------------|
-| X             | Chinmaya Vidyalaya  | Tamil Nadu State Board  | 2020 | 83.2%      |
-| XII           | Chinmaya Vidyalaya  | Tamil Nadu State Board  | 2022 | 90%        |
-| BA; LLB (1st Year) | SASTRA University | - | 2023 | 7.7 CGPA |
+
+- **X (2020)**  
+  Chinmaya Vidyalaya, Tamil Nadu State Board  
+  Marks: 83.2%
+
+- **XII (2022)**  
+  Chinmaya Vidyalaya, Tamil Nadu State Board  
+  Marks: 90%
+
+- **BA; LLB (1st Year, 2023)**  
+  SASTRA University  
+  CGPA: 7.7
 
 ---
 
