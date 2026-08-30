@@ -4,9 +4,9 @@
 
 ---
 
-## 📌 Personal Details
+##  Personal Details
 - **Address:** 2/290/3, Harini Arcade Layout, Vadavalli, Coimbatore - 41  
-- **Email:** [thakshisarathi@gmail.com](mailto:thakshisarathi@gmail.com)  
+- **Email:** [sowmisarathi@gmail.com](mailto:127087024@sastra.ac.in)  
 - **Phone:** +91 70924 49605  
 - **Date of Birth:** 23/08/2004  
 - **Languages:**  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🎓 Education
+##  Education
 
 - **X (2020)**  
   Chinmaya Vidyalaya, Tamil Nadu State Board  
@@ -25,30 +25,30 @@
   Chinmaya Vidyalaya, Tamil Nadu State Board  
   Marks: 90%
 
-- **BA; LLB (1st Year, 2023)**  
+- **BA;LLB(Hons.) (4th Year, 2026)**  
   SASTRA University  
-  CGPA: 7.7
+  CGPA: 6.8
 
 ---
 
-## ⚖️ Fields of Interest
-- Criminal Law
+##  Fields of Interest
+- Criminal Law, Family law, Private International Law
 
 ---
 
-## 📂 Co-Curricular Activities
-- Internship at **Sakthi Law Office**
+##  Co-Curricular Activities
+- Interned at **Mr.K.R.Sankaran's office**
 
 ---
 
-## 🏆 Extra-Curricular Activities
+##  Extra-Curricular Activities
 - Zonal-level **Throw Ball Player**
 
 ---
 
-## 🎨 Hobbies
+##  Hobbies
 - Cooking  
-- Writing  
+- Creative Writing  
 - Portrait Sketching  
 
 ---
